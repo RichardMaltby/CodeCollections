@@ -1,0 +1,11 @@
+/Users/Work/Desktop/DotNet/bin/Debug/netcoreapp2.0/DotNet.deps.json
+/Users/Work/Desktop/DotNet/bin/Debug/netcoreapp2.0/DotNet.runtimeconfig.json
+/Users/Work/Desktop/DotNet/bin/Debug/netcoreapp2.0/DotNet.runtimeconfig.dev.json
+/Users/Work/Desktop/DotNet/bin/Debug/netcoreapp2.0/DotNet.dll
+/Users/Work/Desktop/DotNet/bin/Debug/netcoreapp2.0/DotNet.pdb
+/Users/Work/Desktop/DotNet/obj/Debug/netcoreapp2.0/DotNet.csprojAssemblyReference.cache
+/Users/Work/Desktop/DotNet/obj/Debug/netcoreapp2.0/DotNet.csproj.CoreCompileInputs.cache
+/Users/Work/Desktop/DotNet/obj/Debug/netcoreapp2.0/DotNet.AssemblyInfoInputs.cache
+/Users/Work/Desktop/DotNet/obj/Debug/netcoreapp2.0/DotNet.AssemblyInfo.cs
+/Users/Work/Desktop/DotNet/obj/Debug/netcoreapp2.0/DotNet.dll
+/Users/Work/Desktop/DotNet/obj/Debug/netcoreapp2.0/DotNet.pdb

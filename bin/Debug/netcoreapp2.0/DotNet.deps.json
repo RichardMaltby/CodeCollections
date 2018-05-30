@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "79d68cd847d499c10d5e6007a9152dcb22c3d1fb"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "DotNet/1.0.0": {
+        "dependencies": {
+          "NAudio": "1.8.4",
+          "NLayer": "1.12.0",
+          "NLayer.NAudioSupport": "1.0.0",
+          "taglib": "2.1.0"
+        },
+        "runtime": {
+          "DotNet.dll": {}
+        }
+      },
+      "NAudio/1.8.4": {
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "NLayer/1.12.0": {
+        "runtime": {
+          "lib/netstandard1.3/NLayer.dll": {}
+        }
+      },
+      "NLayer.NAudioSupport/1.0.0": {
+        "dependencies": {
+          "NAudio": "1.8.4",
+          "NLayer": "1.12.0"
+        },
+        "runtime": {
+          "lib/net35/NLayer.NAudioSupport.dll": {}
+        }
+      },
+      "taglib/2.1.0": {
+        "runtime": {
+          "lib/policy.2.0.taglib-sharp.dll": {},
+          "lib/taglib-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NAudio/1.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c4pZSEy+erA4dJBJ4Lubz3PypWvcDWyelS6HZ8nzGYCORyQRkLJDwsQJ2Mn7MnywCt+PcsRGVhiJ24GnqeRX6Q==",
+      "path": "naudio/1.8.4",
+      "hashPath": "naudio.1.8.4.nupkg.sha512"
+    },
+    "NLayer/1.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZEhK6tk8EAJM2l3BnZKkg6nmUTVTbNDFYaCbGbBnOOGZwk9qKRT/sgNpGULkJalkLiEylVMhuIhdrA7bZQ80SA==",
+      "path": "nlayer/1.12.0",
+      "hashPath": "nlayer.1.12.0.nupkg.sha512"
+    },
+    "NLayer.NAudioSupport/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-47endr9TIOomGVy8w8FXPbOW/31dqEph1c2urDmYu41Ym5WKeWcKApb/zI+M8Nqb7fTAS8nyRlCui84MP6hAPg==",
+      "path": "nlayer.naudiosupport/1.0.0",
+      "hashPath": "nlayer.naudiosupport.1.0.0.nupkg.sha512"
+    },
+    "taglib/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PuBT0KO/RJqxVKcM4tE0GDQIOA3584d2pHaLLh+X7tBz9MzFn9/mrVYaA63M+n7ED2dBXVtJBoogGnSxaqE7vg==",
+      "path": "taglib/2.1.0",
+      "hashPath": "taglib.2.1.0.nupkg.sha512"
+    }
+  }
+}
